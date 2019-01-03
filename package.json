@@ -1,0 +1,19 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjsline/Test1.git"
+  },
+  "author": "TSchapiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjsline/Test1/issues"
+  },
+  "homepage": "https://github.com/tjsline/Test1#readme"
+}
